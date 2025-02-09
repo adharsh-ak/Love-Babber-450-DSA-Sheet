@@ -8,6 +8,7 @@ int maximumProfit(vector<int> &prices){
         }
         else{
             l=r;
+
         }
         r++;
     }
